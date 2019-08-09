@@ -1,0 +1,8 @@
+<div class="social pull-right">
+	<?php if(get_theme_mod('neira_lite_facebook')) : ?><a href="<?php echo esc_url( get_theme_mod('neira_lite_facebook') ); ?>" target="_blank" title="<?php esc_attr_e( 'Facebook', 'neira-lite' ); ?>"><i class="fa fa-facebook"></i></a><?php endif; ?>
+	<?php if(get_theme_mod('neira_lite_twitter')) : ?><a href="<?php echo esc_url( get_theme_mod('neira_lite_twitter') ); ?>" target="_blank" title="<?php esc_attr_e( 'Twitter', 'neira-lite' ); ?>"><i class="fa fa-twitter"></i></a><?php endif; ?>
+	<?php if(get_theme_mod('neira_lite_linkedin')) : ?><a href="<?php echo esc_url( get_theme_mod('neira_lite_linkedin') ); ?>" target="_blank" title="<?php esc_attr_e( 'LinkedIn', 'neira-lite' ); ?>"><i class="fa fa-linkedin"></i></a><?php endif; ?>
+	<?php if(get_theme_mod('neira_lite_pinterest')) : ?><a href="<?php echo esc_url( get_theme_mod('neira_lite_pinterest') ); ?>" target="_blank" title="<?php esc_attr_e( 'Pinterest', 'neira-lite' ); ?>"><i class="fa fa-pinterest"></i></a><?php endif; ?>
+	<?php if(get_theme_mod('neira_lite_instagram')) : ?><a href="<?php echo esc_url( get_theme_mod('neira_lite_instagram') ); ?>" target="_blank" title="<?php esc_attr_e( 'Instagram', 'neira-lite' ); ?>"><i class="fa fa-instagram"></i></a><?php endif; ?>.
+	<?php if(get_theme_mod('neira_lite_youtube')) : ?><a href="<?php echo esc_url( get_theme_mod('neira_lite_youtube') ); ?>" target="_blank" title="<?php esc_attr_e( 'YouTube', 'neira-lite' ); ?>"><i class="fa fa-youtube-play"></i></a><?php endif; ?>
+</div>

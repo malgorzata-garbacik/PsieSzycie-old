@@ -1,0 +1,799 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Neira lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-28 04:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: comments.php:30
+msgid " Log out?"
+msgstr ""
+
+#: template-parts/entry-footer.php:5
+msgid " Comments"
+msgstr ""
+
+#. 1: date, 2: time
+#: core/functions/template-tags.php:122
+#, php-format
+msgid " at  "
+msgstr ""
+
+#: comments.php:94 comments.php:111
+msgid " Older Comments"
+msgstr ""
+
+#: core/customizer/neira-custom-control.php:34
+msgid " Select "
+msgstr ""
+
+#: core/functions/template-tags.php:127
+msgid "(Edit)"
+msgstr ""
+
+#: template-parts/entry-footer.php:5
+msgid "1 Comment"
+msgstr ""
+
+#: core/class-neira-admin.php:408
+msgid "15+"
+msgstr ""
+
+#: core/class-neira-admin.php:403
+msgid "35+ color options"
+msgstr ""
+
+#: core/class-neira-admin.php:402 core/class-neira-admin.php:407
+msgid "6"
+msgstr ""
+
+#: core/class-neira-admin.php:413
+msgid "600+"
+msgstr ""
+
+#: header.php:59
+#, php-format
+msgid "Add menu for theme location: Primary Menu."
+msgstr ""
+
+#: core/widgets/neira-latest-posts-widget.php:11
+msgid "[Neira] Latest Posts"
+msgstr ""
+
+#: core/widgets/neira-latest-posts-widget.php:9
+msgid ""
+"A widget that displays your latest posts from all categories or a certain"
+msgstr ""
+
+#: core/class-neira-admin.php:36 core/class-neira-admin.php:120
+msgid "About"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:110
+msgid "About Description:"
+msgstr ""
+
+#: core/class-neira-admin.php:77
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: core/classes/wp-bootstrap-navwalker.php:331
+msgid "Add a menu"
+msgstr ""
+
+#: core/widgets/neira-latest-posts-widget.php:74
+msgid "All categories"
+msgstr ""
+
+#: core/class-neira-admin.php:207
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: template-parts/related-post.php:37
+msgid "Also Like"
+msgstr ""
+
+#: functions.php:99
+msgctxt "BenchNine font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/class-neira-admin.php:431
+msgid "Blog & Post Settings"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:8
+msgid "Blog Settings"
+msgstr ""
+
+#: content-search.php:30 content-single.php:28 content.php:29
+msgid "by"
+msgstr ""
+
+#: comments.php:31
+msgid "Cancel"
+msgstr ""
+
+#: core/class-neira-admin.php:172
+msgid "Changelog"
+msgstr ""
+
+#: core/class-neira-admin.php:81
+msgid "Cheatin' huh?"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:433
+msgid ""
+"Check out the premium version of this theme which comes with more great "
+"features, Sticky Header, Sticky Sidebar, Featured Slider and Advanced "
+"customization options for your website."
+msgstr ""
+
+#: core/class-neira-admin.php:252
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: core/class-neira-admin.php:401
+msgid "Color Options"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:24
+#: core/customizer/neira-customizer-settings.php:370
+msgid "Color Scheme"
+msgstr ""
+
+#: comments.php:28
+msgid "Comment"
+msgstr ""
+
+#: comments.php:93 comments.php:110
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/entry-footer.php:5
+msgid "Comments Off"
+msgstr ""
+
+#. %1$s for number of comments
+#: comments.php:75
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:71
+msgctxt "comments title"
+msgid "One Comment"
+msgstr ""
+
+#: core/class-neira-admin.php:345
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/class-neira-admin.php:241
+msgid "Contact Page"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:188
+msgid "Content Box 1 - Image"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:162
+msgid "Content Box 1 - Title"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:175
+msgid "Content Box 1 - URL"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:226
+msgid "Content Box 2 - Image"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:200
+msgid "Content Box 2 - Title"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:213
+msgid "Content Box 2 - URL"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:264
+msgid "Content Box 3 - Image"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:238
+msgid "Content Box 3 - Title"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:251
+msgid "Content Box 3 - URL"
+msgstr ""
+
+#: core/class-neira-admin.php:396
+#: core/customizer/neira-customizer-settings.php:13
+msgid "Content Boxes"
+msgstr ""
+
+#: core/class-neira-admin.php:471
+msgid "Content Demo"
+msgstr ""
+
+#. 1: year, 2: sitename
+#: core/functions/template-tags.php:155
+#, php-format
+msgid "Copyright  . All rights reserved."
+msgstr ""
+
+#: core/class-neira-admin.php:386
+msgid "Custom Logo"
+msgstr ""
+
+#: core/class-neira-admin.php:466
+msgid "Custom Scripts"
+msgstr ""
+
+#: core/class-neira-admin.php:209
+msgid "Customize"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:85
+msgid "Default: 45"
+msgstr ""
+
+#: core/class-neira-admin.php:95
+msgid "Dismiss"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:148
+msgid "Display Content Boxes"
+msgstr ""
+
+#: core/class-neira-admin.php:214 core/class-neira-admin.php:217
+msgid "Documentation"
+msgstr ""
+
+#: content-page.php:25 content-single.php:37
+msgid "Edit"
+msgstr ""
+
+#: comments.php:21
+msgid "Email*"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:19
+msgid "Enter social media url. including http:// or https://"
+msgstr ""
+
+#: template-parts/social-topbar.php:2
+#: core/customizer/neira-customizer-settings.php:290
+msgid "Facebook"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:120
+msgid "Facebook:"
+msgstr ""
+
+#: core/class-neira-admin.php:374
+msgid "Features"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:115
+msgid "Feed:"
+msgstr ""
+
+#: core/widgets/neira-latest-posts-widget.php:72
+msgid "Filter by Category:"
+msgstr ""
+
+#: core/class-neira-admin.php:416
+msgid "Font Size options"
+msgstr ""
+
+#: core/class-neira-admin.php:461
+msgid "Footer Copyright Editor"
+msgstr ""
+
+#: core/class-neira-admin.php:164
+msgid "Free Vs Pro"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width Page Template"
+msgstr ""
+
+#: core/class-neira-admin.php:352
+msgid "Fully Compatible in Pro Version"
+msgstr ""
+
+#: core/class-neira-admin.php:100
+msgid "Get started with Neira Lite"
+msgstr ""
+
+#: core/class-neira-admin.php:271
+msgid "Go to Dashboard"
+msgstr ""
+
+#: core/class-neira-admin.php:271
+msgid "Go to Dashboard Home"
+msgstr ""
+
+#: core/class-neira-admin.php:411
+msgid "Google Fonts Option"
+msgstr ""
+
+#: core/class-neira-admin.php:238
+msgid "Got sales related question?"
+msgstr ""
+
+#: core/class-neira-admin.php:222
+msgid "Got theme support question?"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:134
+msgid "Hide \"back to top\" icon link on the site bottom"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:108
+msgid "Hide author box on single posts"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:95
+msgid "Hide header search form"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:121
+msgid "Hide related posts on single posts"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://volthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://volthemes.com/theme/neira-lite/"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:95
+msgid "Image ALT:"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:105
+msgid "Image Height:"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:90
+msgid "Image URL:"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:100
+msgid "Image Width:"
+msgstr ""
+
+#: template-parts/social-topbar.php:6
+#: core/customizer/neira-customizer-settings.php:342
+msgid "Instagram"
+msgstr ""
+
+#: core/class-neira-admin.php:456
+msgid "Instagram Feed"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:140
+msgid "Instagram:"
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: core/class-neira-admin.php:348
+msgid "Jetpack by WordPress.com"
+msgstr ""
+
+#: core/widgets/neira-latest-posts-widget.php:61
+msgid "Latest Posts"
+msgstr ""
+
+#: core/class-neira-admin.php:426
+msgid "Layout option"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:438
+msgid "Learn more about premium version"
+msgstr ""
+
+#: comments.php:34
+msgid "Leave a Reply"
+msgstr ""
+
+#: template-parts/social-topbar.php:4
+msgid "LinkedIn"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:316
+msgid "Linkedin"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:130
+msgid "Linkedin:"
+msgstr ""
+
+#. 1: user login as
+#: comments.php:30
+msgid "Logged in as "
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:384
+msgid "Menu Background"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:398
+msgid "Menu Link Color"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:412
+msgid "Menu Link Hover Color"
+msgstr ""
+
+#: functions.php:98
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:428
+msgid "More Features and Options"
+msgstr ""
+
+#: 404.php:18
+msgid "Most Used Categories"
+msgstr ""
+
+#: comments.php:20
+msgid "Name"
+msgstr ""
+
+#: core/class-neira-admin.php:230
+msgid "Need more features?"
+msgstr ""
+
+#: core/class-neira-admin.php:375
+msgid "Neira Lite"
+msgstr ""
+
+#. Name of the theme
+msgid "Neira lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Neira Lite is a clean and minimalist theme that allows your reader to focus "
+"on your content. It features modern, easy-to-read typography and "
+"minimalistic design. Built with Bootstrap framework which is perfect look on "
+"any device. Neira Lite offers additional two custom widget i.e. About and "
+"Latest Posts and including changing the color scheme. The theme options are "
+"powered by Customizer. You can check out the demo at https://volthemes."
+"com/demo/?theme=neira-lite"
+msgstr ""
+
+#: core/class-neira-admin.php:376
+msgid "Neira Pro"
+msgstr ""
+
+#: comments.php:95 comments.php:112
+msgid "Newer Comments "
+msgstr ""
+
+#: template-parts/entry-footer.php:5
+msgid "No Comments"
+msgstr ""
+
+#: template-parts/related-post.php:55
+#: core/widgets/neira-latest-posts-widget.php:33
+msgid "No Picture"
+msgstr ""
+
+#: core/widgets/neira-latest-posts-widget.php:82
+msgid "Number of posts to show:"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:81
+msgid "Number of words to show on excerpt"
+msgstr ""
+
+#: 404.php:11
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: core/class-neira-admin.php:436
+msgid "Override Theme Text"
+msgstr ""
+
+#: content-page.php:21 content.php:49
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/social-topbar.php:5
+#: core/customizer/neira-customizer-settings.php:329
+msgid "Pinterest"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:135
+msgid "Pinterest:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search & hit enter..."
+msgstr ""
+
+#: core/class-neira-admin.php:223
+msgid "Please put it in our dedicated support forum."
+msgstr ""
+
+#: core/class-neira-admin.php:239
+msgid "Please send it via our sales contact page."
+msgstr ""
+
+#: core/class-neira-admin.php:215
+msgid "Please view our documentation page to setup the theme."
+msgstr ""
+
+#. %s: post author.
+#: core/functions/template-tags.php:88
+#, php-format
+msgctxt "post author"
+msgid "by "
+msgstr ""
+
+#: core/functions/template-tags.php:155
+#, php-format
+msgid "Powered by "
+msgstr ""
+
+#: functions.php:41
+msgid "Primary menu"
+msgstr ""
+
+#: core/class-neira-admin.php:141
+msgid "Rate this theme"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: content-none.php:8
+#, php-format
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: core/class-neira-admin.php:381
+msgid "Responsive Design"
+msgstr ""
+
+#: core/class-neira-admin.php:268
+msgid "Return to Dashboard  Updates"
+msgstr ""
+
+#: core/class-neira-admin.php:268
+msgid "Return to Updates"
+msgstr ""
+
+#. %s: for the search keyword
+#: search.php:18
+#, php-format
+msgid "Search results for: "
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:276
+msgid "Show Border Bottom"
+msgstr ""
+
+#: functions.php:142
+msgid "Sidebar"
+msgstr ""
+
+#: core/class-neira-admin.php:421
+msgid "Slider"
+msgstr ""
+
+#: core/class-neira-admin.php:406
+msgid "Social Icons"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:18
+msgid "Social Media Settings"
+msgstr ""
+
+#: content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: core/class-neira-admin.php:441
+msgid "Sticky Header"
+msgstr ""
+
+#: core/class-neira-admin.php:446
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: comments.php:35
+msgid "Submit"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid ""
+msgstr ""
+
+#: core/class-neira-admin.php:476
+msgid "Support"
+msgstr ""
+
+#: core/class-neira-admin.php:225
+msgid "Support Forum"
+msgstr ""
+
+#: core/class-neira-admin.php:478
+msgid "Support Forum + Emails/Support Ticket"
+msgstr ""
+
+#: core/class-neira-admin.php:156
+msgid "Supported Plugins"
+msgstr ""
+
+#: core/class-neira-admin.php:206
+msgid "Theme Customizer"
+msgstr ""
+
+#: core/class-neira-admin.php:135
+msgid "Theme Info"
+msgstr ""
+
+#: core/functions/template-tags.php:155
+#, php-format
+msgid "Theme:  by ."
+msgstr ""
+
+#: core/class-neira-admin.php:342
+msgid "This theme recommends following plugins:"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:85
+#: core/widgets/neira-latest-posts-widget.php:68
+msgid "Title:"
+msgstr ""
+
+#: core/class-neira-admin.php:248 core/class-neira-admin.php:256
+msgid "Translate"
+msgstr ""
+
+#: core/class-neira-admin.php:391
+msgid "Translation Ready"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:34
+#, php-format
+msgid "Try looking in the monthly archives. "
+msgstr ""
+
+#: template-parts/social-topbar.php:3
+#: core/customizer/neira-customizer-settings.php:303
+msgid "Twitter"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:125
+msgid "Twitter:"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:28
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: core/class-neira-admin.php:231 core/class-neira-admin.php:369
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: core/class-neira-admin.php:288
+msgid "View changelog below:"
+msgstr ""
+
+#: core/class-neira-admin.php:137
+msgid "View Demo"
+msgstr ""
+
+#: template-parts/entry-footer.php:10
+msgid "View Post"
+msgstr ""
+
+#: core/class-neira-admin.php:233 core/class-neira-admin.php:484
+msgid "View Pro"
+msgstr ""
+
+#: core/class-neira-admin.php:139
+msgid "View PRO version"
+msgstr ""
+
+#. Author of the theme
+#: core/functions/template-tags.php:151
+msgid "VolThemes"
+msgstr ""
+
+#: comments.php:22
+msgid "Website"
+msgstr ""
+
+#. 1: Display Welcome Page
+#: core/class-neira-admin.php:98
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Neira Theme! To fully take advantage of the "
+"best our theme can offer please make sure you visit our Welcome Page."
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:7
+msgctxt "widget name"
+msgid "[Neira] About Widget"
+msgstr ""
+
+#: core/class-neira-admin.php:351
+msgid "WooCommerce"
+msgstr ""
+
+#: core/class-neira-admin.php:451
+msgid "Woocommerce Compatible"
+msgstr ""
+
+#: core/functions/template-tags.php:149
+msgid "WordPress"
+msgstr ""
+
+#: core/class-neira-admin.php:477
+msgid "WordPress Forum"
+msgstr ""
+
+#: template-parts/related-post.php:37
+msgid "You May"
+msgstr ""
+
+#: core/functions/template-tags.php:131
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: template-parts/social-topbar.php:7
+msgid "YouTube"
+msgstr ""
+
+#: core/customizer/neira-customizer-settings.php:355
+msgid "Youtube"
+msgstr ""
+
+#: core/widgets/neira-about-widget.php:145
+msgid "Youtube:"
+msgstr ""
